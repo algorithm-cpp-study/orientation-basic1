@@ -1,1 +1,1 @@
-# orientation-basic1
+# 오리엔테이션, 기초 코드 작성 요령 1
